@@ -1,0 +1,42 @@
+/* .edit-btn{
+    width: 80%;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.4rem;
+    cursor: pointer;
+    text-decoration: none;
+    
+} */
+
+.edit-btn{
+    font-size: 1.5rem;
+    position: relative;
+    left: 2rem;
+    color: black;
+    
+}
+
+.delete-btn{
+    font-size: 1.5rem;
+    position: relative;
+    left: 2rem;
+    color: black;   
+    
+}
+
+.delete-btn:hover{
+    color: red;
+    
+}
+
+/* .delete-btn{
+    width: 80%;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.4rem;
+    cursor: pointer;
+} */

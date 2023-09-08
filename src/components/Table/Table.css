@@ -1,0 +1,33 @@
+
+
+#users-table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+#table-headers{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    
+}
+
+th,
+td{
+    padding: 0.7rem;
+}
+
+tr:nth-child(even){
+    background-color: white;
+}
+
+tr:nth-child(odd){
+    background-color: rgb(211, 211, 211);
+}
+
+tr:hover {
+    background-color: rgb(126, 126, 126);
+    cursor: pointer;
+    color: black;
+}
